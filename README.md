@@ -1,0 +1,2 @@
+# ImageText-GRU-Deep-Learning-Architecture-for-Multimodal-Classification-and-Caption-Synthesis
+A novel deep learning architecture tackling multimodal learning through GRUs. This model efficiently processes paired image-text data for classification and caption generation, offering a lightweight alternative to traditional large language models. Validated on MuCR dataset, it achieves robust performance using minimal resources.
