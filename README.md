@@ -42,7 +42,7 @@ pip install torch torchvision transformers numpy pandas matplotlib
 The model was trained and tested on the MuCR dataset, achieving:
 - **Classification Accuracy**: 93.75%
 - **ROC AUC Score**: 99.28%
-- **Caption Similarity Score**: 0.6211
+- **Caption Similarity Score**: 0.6291
 
 ## Result
 ![image](https://github.com/user-attachments/assets/f827fd5b-86fb-4ea2-bbf1-3a1564ff43fc)
