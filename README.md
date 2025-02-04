@@ -24,7 +24,7 @@ pip install torch torchvision transformers numpy pandas matplotlib
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/ImageText-GRU.git
+   git clone [https://github.com/niranjan-ellur/ImageText-GRU-Deep-Learning-Architecture-for-Multimodal-Classification-and-Caption-Synthesis.git]
    cd ImageText-GRU
    ```
 2. Open `project_code.ipynb` in Jupyter Notebook or Google Colab.
